@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Martín Rivas</dc:title>
+    <dc:creator opf:file-as="Unknown" opf:role="aut">Alberto Blest Gana</dc:creator>
+    <dc:contributor opf:file-as="calibre" opf:role="bkp">Chilelibros</dc:contributor>
+    <dc:language>spa</dc:language>
+    <meta name="cover" content="cover"/>
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+    <item href="css/style.css" id="style" media-type="text/css"/>
+    <item href="img/portada.jpg" id="portada" media-type="image/jpeg"/>
+    <item href="txt/portadaInterior.xhtml" id="portadaInterior" media-type="application/xhtml+xml"/>
+    <item href="txt/preambulo.xhtml" id="preambulo" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-1.xhtml" id="cap-1" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-2.xhtml" id="cap-2" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-3.xhtml" id="cap-3" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-4.xhtml" id="cap-4" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-5.xhtml" id="cap-5" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-6.xhtml" id="cap-6" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-7.xhtml" id="cap-7" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-8.xhtml" id="cap-8" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-9.xhtml" id="cap-9" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-10.xhtml" id="cap-10" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-11.xhtml" id="cap-11" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-12.xhtml" id="cap-12" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-13.xhtml" id="cap-13" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-14.xhtml" id="cap-14" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-15.xhtml" id="cap-15" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-16.xhtml" id="cap-16" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-17.xhtml" id="cap-17" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-18.xhtml" id="cap-18" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-19.xhtml" id="cap-19" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-20.xhtml" id="cap-20" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-21.xhtml" id="cap-21" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-22.xhtml" id="cap-22" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-23.xhtml" id="cap-23" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-24.xhtml" id="cap-24" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-25.xhtml" id="cap-25" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-26.xhtml" id="cap-26" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-27.xhtml" id="cap-27" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-28.xhtml" id="cap-28" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-29.xhtml" id="cap-29" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-30.xhtml" id="cap-30" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-31.xhtml" id="cap-31" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-32.xhtml" id="cap-32" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-33.xhtml" id="cap-33" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-34.xhtml" id="cap-34" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-35.xhtml" id="cap-35" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-36.xhtml" id="cap-36" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-37.xhtml" id="cap-37" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-38.xhtml" id="cap-38" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-39.xhtml" id="cap-39" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-40.xhtml" id="cap-40" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-41.xhtml" id="cap-41" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-42.xhtml" id="cap-42" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-43.xhtml" id="cap-43" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-44.xhtml" id="cap-44" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-45.xhtml" id="cap-45" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-46.xhtml" id="cap-46" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-47.xhtml" id="cap-47" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-48.xhtml" id="cap-48" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-49.xhtml" id="cap-49" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-50.xhtml" id="cap-50" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-51.xhtml" id="cap-51" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-52.xhtml" id="cap-52" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-53.xhtml" id="cap-53" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-54.xhtml" id="cap-54" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-55.xhtml" id="cap-55" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-56.xhtml" id="cap-56" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-57.xhtml" id="cap-57" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-58.xhtml" id="cap-58" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-59.xhtml" id="cap-59" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-60.xhtml" id="cap-60" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-61.xhtml" id="cap-61" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-62.xhtml" id="cap-62" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-63.xhtml" id="cap-63" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-64.xhtml" id="cap-64" media-type="application/xhtml+xml"/>
+    <item href="txt/capitulo-65.xhtml" id="cap-65" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="portada"/>
+    <itemref idref="portadaInterior"/>
+    <itemref idref="preambulo"/>
+    <itemref idref="cap-1"/>
+    <itemref idref="cap-2"/>
+    <itemref idref="cap-3"/>
+    <itemref idref="cap-4"/>
+    <itemref idref="cap-5"/>
+    <itemref idref="cap-6"/>
+    <itemref idref="cap-7"/>
+    <itemref idref="cap-8"/>
+    <itemref idref="cap-9"/>
+    <itemref idref="cap-10"/>
+    <itemref idref="cap-11"/>
+    <itemref idref="cap-12"/>
+    <itemref idref="cap-13"/>
+    <itemref idref="cap-14"/>
+    <itemref idref="cap-15"/>
+    <itemref idref="cap-16"/>
+    <itemref idref="cap-17"/>
+    <itemref idref="cap-18"/>
+    <itemref idref="cap-19"/>
+    <itemref idref="cap-20"/>
+    <itemref idref="cap-21"/>
+    <itemref idref="cap-22"/>
+    <itemref idref="cap-23"/>
+    <itemref idref="cap-24"/>
+    <itemref idref="cap-25"/>
+    <itemref idref="cap-26"/>
+    <itemref idref="cap-27"/>
+    <itemref idref="cap-28"/>
+    <itemref idref="cap-29"/>
+    <itemref idref="cap-30"/>
+    <itemref idref="cap-31"/>
+    <itemref idref="cap-32"/>
+    <itemref idref="cap-33"/>
+    <itemref idref="cap-34"/>
+    <itemref idref="cap-35"/>
+    <itemref idref="cap-36"/>
+    <itemref idref="cap-37"/>
+    <itemref idref="cap-38"/>
+    <itemref idref="cap-39"/>
+    <itemref idref="cap-40"/>
+    <itemref idref="cap-41"/>
+    <itemref idref="cap-42"/>
+    <itemref idref="cap-43"/>
+    <itemref idref="cap-44"/>
+    <itemref idref="cap-45"/>
+    <itemref idref="cap-46"/>
+    <itemref idref="cap-47"/>
+    <itemref idref="cap-48"/>
+    <itemref idref="cap-49"/>
+    <itemref idref="cap-50"/>
+    <itemref idref="cap-51"/>
+    <itemref idref="cap-52"/>
+    <itemref idref="cap-53"/>
+    <itemref idref="cap-54"/>
+    <itemref idref="cap-55"/>
+    <itemref idref="cap-56"/>
+    <itemref idref="cap-57"/>
+    <itemref idref="cap-58"/>
+    <itemref idref="cap-59"/>
+    <itemref idref="cap-60"/>
+    <itemref idref="cap-61"/>
+    <itemref idref="cap-62"/>
+    <itemref idref="cap-63"/>
+    <itemref idref="cap-64"/>
+    <itemref idref="cap-65"/>
+  </spine>
+  <guide>
+    <reference type="cover" title="Cover" href="txt/portada.xhtml"/>
+  </guide>
+</package>
