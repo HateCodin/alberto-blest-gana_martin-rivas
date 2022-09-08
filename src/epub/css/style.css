@@ -40,3 +40,12 @@ hr {
   line-height: 1.2;
   text-indent: 1.5em;
 }
+.autor {
+  text-align: right;
+  }
+blockquote {
+  font-style: italic;
+}
+span.normal {
+  font-style: normal;
+}

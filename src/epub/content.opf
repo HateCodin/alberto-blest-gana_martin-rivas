@@ -1,6 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier opf:scheme="calibre" id="calibre_id">11b6808c-46c5-40a6-aff2-ee64ed4aabf9</dc:identifier>
+    <dc:identifier opf:scheme="uuid" id="uuid_id">83313918-4641-43c7-b46b-b1d14f3f2f6e</dc:identifier>
     <dc:title>Martín Rivas</dc:title>
     <dc:creator opf:file-as="Unknown" opf:role="aut">Alberto Blest Gana</dc:creator>
     <dc:contributor opf:file-as="calibre" opf:role="bkp">Chilelibros</dc:contributor>
@@ -9,8 +11,9 @@
   </metadata>
   <manifest>
     <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
-    <item href="css/style.css" id="style" media-type="text/css"/>
-    <item href="img/portada.jpg" id="portada" media-type="image/jpeg"/>
+    <item href="css/style.css" id="style" media-type="text/css"/>s
+    <item href="img/portada.jpg" id="cover" media-type="image/jpeg"/>
+    <item href="txt/portada.xhtml" id="portada" media-type="application/xhtml+xml"/>
     <item href="txt/portadaInterior.xhtml" id="portadaInterior" media-type="application/xhtml+xml"/>
     <item href="txt/preambulo.xhtml" id="preambulo" media-type="application/xhtml+xml"/>
     <item href="txt/capitulo-1.xhtml" id="cap-1" media-type="application/xhtml+xml"/>
@@ -150,6 +153,8 @@
     <itemref idref="cap-65"/>
   </spine>
   <guide>
-    <reference type="cover" title="Cover" href="txt/portada.xhtml"/>
+    <reference href="txt/portada.xhtml" type="cover" title="Portada"/>
+    <reference href="txt/preambulo.xhtml" type="dedication" title="Dedicatoria"/>
+    <reference href="txt/portadaInterior.xhtml" type="other.halftitlepage" title="Portada Interior"/>
   </guide>
 </package>
